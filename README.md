@@ -1,3 +1,3 @@
 # Blackfoot
 
-#Showcase of Surfboards and Art by Blackfoot
+# Showcase of Surfboards and Art by Blackfoot
